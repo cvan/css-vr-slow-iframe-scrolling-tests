@@ -17,5 +17,5 @@ Scrolling an `<iframe>` inside a `preserve-3d` parent makes the the `<iframe>` d
 
 ### Test cases
 
-* [__with an `<iframe>`__](index.html)
-* [__with a `<div>`__](div.html)
+* [__with an `<iframe>`__](http://cvan.io/css-vr-slow-iframe-scrolling-tests/)
+* [__with a `<div>`__](http://cvan.io/css-vr-slow-iframe-scrolling-tests/div.html)
