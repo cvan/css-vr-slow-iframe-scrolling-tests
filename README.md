@@ -5,7 +5,7 @@ Test cases for a scrolling bug in Firefox's CSS-VR experimental builds.
 
 ### Problem
 
-Scrolling an `<iframe>` inside a `preserve-3d` parent makes the the `<iframe>` disappear for 5+ seconds while a repaint occurs. (Notice this happens even though "preserve-3d is NOT inherited.")
+Scrolling an `<iframe>` inside a `preserve-3d` parent makes the `<iframe>` disappear for 5+ seconds while a repaint occurs. (Notice this happens even though "preserve-3d is NOT inherited.")
 
 
 ### Steps to reproduce
